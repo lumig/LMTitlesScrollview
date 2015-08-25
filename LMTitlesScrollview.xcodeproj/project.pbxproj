@@ -14,6 +14,7 @@
 		04C1E6591B8AC15800942720 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04C1E6581B8AC15800942720 /* Images.xcassets */; };
 		04C1E65C1B8AC15800942720 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04C1E65A1B8AC15800942720 /* LaunchScreen.xib */; };
 		04C1E6681B8AC15800942720 /* LMTitlesScrollviewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C1E6671B8AC15800942720 /* LMTitlesScrollviewTests.m */; };
+		04C1E6761B8AFD7900942720 /* LMTitlesScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C1E6751B8AFD7900942720 /* LMTitlesScrollView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		04C1E6611B8AC15800942720 /* LMTitlesScrollviewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LMTitlesScrollviewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C1E6661B8AC15800942720 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04C1E6671B8AC15800942720 /* LMTitlesScrollviewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LMTitlesScrollviewTests.m; sourceTree = "<group>"; };
+		04C1E6741B8AFD7900942720 /* LMTitlesScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMTitlesScrollView.h; sourceTree = "<group>"; };
+		04C1E6751B8AFD7900942720 /* LMTitlesScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LMTitlesScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				04C1E6501B8AC15800942720 /* AppDelegate.m */,
 				04C1E6521B8AC15800942720 /* ViewController.h */,
 				04C1E6531B8AC15800942720 /* ViewController.m */,
+				04C1E6741B8AFD7900942720 /* LMTitlesScrollView.h */,
+				04C1E6751B8AFD7900942720 /* LMTitlesScrollView.m */,
 				04C1E6551B8AC15800942720 /* Main.storyboard */,
 				04C1E6581B8AC15800942720 /* Images.xcassets */,
 				04C1E65A1B8AC15800942720 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				04C1E6541B8AC15800942720 /* ViewController.m in Sources */,
 				04C1E6511B8AC15800942720 /* AppDelegate.m in Sources */,
 				04C1E64E1B8AC15800942720 /* main.m in Sources */,
+				04C1E6761B8AFD7900942720 /* LMTitlesScrollView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +420,7 @@
 				04C1E66D1B8AC15800942720 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04C1E66E1B8AC15800942720 /* Build configuration list for PBXNativeTarget "LMTitlesScrollviewTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +429,7 @@
 				04C1E6701B8AC15800942720 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21811D3F-04C3-47A1-8EAB-54B78FFD17C6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LMTitlesScrollview</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>695BC6B8D5031061D031DBE06D1EE313B2E75E2A</key>
+		<string>https://github.com/lumig/LMTitlesScrollview.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LMTitlesScrollview.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>695BC6B8D5031061D031DBE06D1EE313B2E75E2A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lumig/LMTitlesScrollview.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>695BC6B8D5031061D031DBE06D1EE313B2E75E2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>695BC6B8D5031061D031DBE06D1EE313B2E75E2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LMTitlesScrollview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
